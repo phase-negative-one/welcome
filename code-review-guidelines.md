@@ -85,7 +85,7 @@ When hosting a guest, we should be welcoming, warm and gracious. If someone's su
 
 ## An alternative outlook:
 
-Some people will argue that the archtype at the beginning, the programmer who cares only for the right solution, and has no time for people's feelings, is **correct**. That all else is coddling and a mature human being should be able to completely set aside their own feelings and just deal with the facts. They might say that while most people may not be able to do this, everyone should **aim** to do this, and that worrying about empathy for things like code review just encourages emotional immaturity. To those people, I would point out that companies like Google disagree. But if you prefer a feelings-free company culture, you can probably find them. Just be prepared for the in-fighting, toxic politics and petty competition that seems to me go go hand in hand with this line of thinking. 
+Some people will argue that the archtype at the beginning, the programmer who cares only for the right solution, and has no time for people's feelings, is **correct**. That all else is coddling and a mature human being should be able to completely set aside their own feelings and just deal with the facts. They might say that while most people may not be able to do this, everyone should **aim** to do this, and that worrying about empathy for things like code review just encourages emotional immaturity. To those people, I would point out that companies like Google disagree. But if you prefer a feelings-free company culture, you can probably find it. Just be prepared for the in-fighting, toxic politics and petty competition that seems to me go go hand in hand with this line of thinking. 
 
 ## Conclusion
 
