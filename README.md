@@ -8,7 +8,7 @@ This community consists of 5 parts:
 
 2. Weekly Stand Ups. In stand ups we share what we got done, what we are blocked on if anything, and what we are working on in the coming week, as well as any triumphs or learning experiences to share. These are coordinated on Discord. 
 
-3. Weekly Code Review. This is also coordinated on Discord where you will submit code to be reviewed, and get assigned another developers code to review. Please follow [these guidelines]() for quality, empathetic code review. 
+3. Weekly Code Review. This is also coordinated on Discord where you will submit code to be reviewed, and get assigned another developers code to review. Please follow [these guidelines](https://github.com/phase-negative-one/welcome/blob/master/code-review-guidelines.md) for quality, empathetic code review. 
 
 4. Experience: Phase[-1] project manages an Open Source project in this organization. This is intended to become a live app with real users. Something that you can learn from *and* put on your resumé. View the project and project guidelines [here](). 
 
