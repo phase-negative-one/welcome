@@ -4,7 +4,7 @@
 
 This community consists of 5 parts: 
 
-1. Chat -- we use Discord. You can find our group [here](https://discord.gg/s74T8z)
+1. Chat -- we use Discord. You can find our group [here](https://discord.gg/YJsv8PX)
 
 2. Weekly Stand Ups. In stand ups we share what we got done, what we are blocked on if anything, and what we are working on in the coming week, as well as any triumphs or learning experiences to share. These are coordinated on Discord. 
 
